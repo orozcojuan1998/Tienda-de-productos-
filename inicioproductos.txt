@@ -1,0 +1,11 @@
+PRODUCTOS
+8
+0,pantalon,10,20
+1,agua,2,20
+2,zapatos,5,20
+3,reloj,6,20
+4,computador,20,20
+5,celular,15,20
+6,chaqueta,12,20
+7,equipo de sonido,8,20
+

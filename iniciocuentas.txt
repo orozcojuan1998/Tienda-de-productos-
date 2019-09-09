@@ -1,0 +1,7 @@
+TARJETAS
+5
+1234,600,juan
+4321,180,pepe
+6541,30,andres
+5246,78,ana
+8975,50,maria
